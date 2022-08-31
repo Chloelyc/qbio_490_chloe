@@ -1,0 +1,9 @@
+Question 1:
+1. git status
+2. git add .; git add <path>
+3. git commit -m
+4. git push
+
+Question 2:
+1. git pull
+2. scp
